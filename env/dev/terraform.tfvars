@@ -10,6 +10,10 @@
      SunnyRG5 = {
       location = "westus"
     }
+
+    SunnyRG6 = {
+      location = "westus"
+    }
   }
 
 
